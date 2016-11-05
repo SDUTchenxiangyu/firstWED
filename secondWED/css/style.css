@@ -58,13 +58,6 @@ cursor:pointer;
 text-align:left;
 padding:10px 15px 5px;
 }
-span.imyeah {
-float:right;
-color:#ccc;
-}
-span.imyeah a{
-color:#ccc;
-}
 .screen{
 width:200px;
 height:24px;
@@ -91,12 +84,4 @@ width:210px;
 height:auto;
 overflow:hidden;
 color:red;
-}
-span.welcome{
-clear:both;
-color:#999;
-}
-span.welcome a{
-float:right;
-color:#999;
 }
